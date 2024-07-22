@@ -1,0 +1,9 @@
+{
+    "vue.codeActions.enabled": false,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+}

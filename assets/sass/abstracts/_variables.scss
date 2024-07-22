@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@300;500;600;700&display=swap');
+
+$font1: 'Lato',
+sans-serif;
+$font2: 'Montserrat',
+sans-serif;
+$font3: 'Arial',
+sans-serif;
+
+
+$white: #ffffff;
+$white_alpha: rgba(255, 255, 255, 0.05);
+$white_alpha1: rgba(255, 255, 255, 0.1);
+$white_alpha2: rgba(255, 255, 255, 0.2);
+$white_alpha3: rgba(255, 255, 255, 0.3);
+$black: #000000;
+$black_alpha: rgba(0, 0, 0, 0.05);
+$black_alpha1: rgba(0, 0, 0, 0.1);
+$black_alpha2: rgba(0, 0, 0, 0.2);
+$black_alpha3: rgba(0, 0, 0, 0.3);
+$txt: #333333;
+
+$transition0: all 0s ease;
+$transition: all 0.4s ease;
+$transition2: all 0.2s ease;
+
+$shadow : 0px 0px 10px rgba(0, 0, 0, 0.1);
+$shadow_hover : 0px 0px 20px rgba(0, 0, 0, 0.15);
+$shadow2 : 0px 0px 5px rgba(0, 0, 0, 0.05);
+
+$bg: #fafafa;
+$bg-disabled: #f8f8f8;
+$cor1: #114E8C;
+$cor1_dk: #103861;
+$cor1_lt: #DEECFA;
+$cor1_lt2: #EDF6FF;
+$red: #AF0B0B;
+$red_lt: #FFE5E5;
+$cor2_lt: #edf2f7;
+
+$border: 1px solid #DADADA;
+$input-txt: #666666;
+
+
+$gray_lt: #DADADA;
+$gray_lt2: #E3E3E3;

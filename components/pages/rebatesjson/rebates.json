@@ -1,0 +1,1720 @@
+{
+    "success": true,
+    "data": [
+        {
+            "tourcodeId": 11827,
+            "rebates": [
+                {
+                    "Nome": "ABRA VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ADB TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AF TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AG1 TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AGATUR PASSAGENS E TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AGENCIA BOM JESUS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AGENCIA WELLTUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AGENDA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AKTOUR VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ALEGRA TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ALFAVILE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ALLIANCE TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ALMA LIVRE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ALPHA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AMR CLASS AGENCIA DE VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ANA BUFFARA VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ANCHIETA BUSINESS VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ANJOS TUR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "APLW VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AQUAVILLE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ARAUCAR VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ARENA AGENCIA DE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ASPP TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ASR VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AURUM TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AVANT TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AVS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AZ TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AZUL VIAGEM CURITIBA - PALLADIUM",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AZUL VIAGENS CURITIBA   PARK SHOPPING BARIGUI",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "AZUL VIAGENS CURITIBA   SHOPPING CURITIBA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BAC VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BAS VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BASTOUR OPERADORA E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BATISTOTI TUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BELLA TURISMO CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BILIBIO VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BIS VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BOA VIAGENS - CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BRASATUR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BRASSE TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BRISA TRAVEL   CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "BTG VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "C FARAH",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CADENCE VIAGENS E TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CANNES TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Caribbeantur",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CARPEDIEM - CASTRO - CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CASANOVA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CIA10 OPERADORA DE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CLASSE A TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CLASSE VIP",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CLIP GUAPAS TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Colecione Viagens Agencia de Viagens e Turismo",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CONSULTORA DE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CR TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "CTOUR TRAVEL CURITIBA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DANN TRAVEL VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DEBORA ALONSO TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DESTINOS VIAGENS CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DF BRASIL VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DIAMANTE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DIRECT WORLD TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DK TOUR TURISMO ANTIGO NÃO USAR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DOLIVA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "DOMUS VIAGENS OPERADORA DE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "E TOUR AGENCIA DE VIAGENS E TURISMO ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ECOLOGICATUR AGENCIA DE VIAGENS LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "EMBARKAR VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "EMPRETUR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ERICKA QUINATO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Euro Italia Viagens e Turismo",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "EVENTTOUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "EXCELLENCE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "EXPRESSIVA SUL ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FIRST EVOLUTION",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FLORIDA TURISMO - CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FLYTOUR ALPHAVILLE",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FLYTOUR CWB DPR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FRAN ROCHA ACADEMY  FULL WORLD",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FRIENDS ADVENTURE",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "FRM OPERADORA DE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GLM TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GMK TRAVEL DESIGN",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GOLFETUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GRAFONTUR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GRANDES DESTINOS VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GUARDIAN VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "GV TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "HORAI TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "HS&B TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "HT MOTO TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "IAF TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "IBERO TUR ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ICX TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "INFINITY CONSULTORIA E VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "J DEGRAF",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "JITUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "JR TURISMO   CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "KARAMGATUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "KLAS VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "KLOC TUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "KLOC TUR NOVO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LABADEE TOUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LATITUDE 25",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LAVOUEU VIAGENS E TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LE VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LG VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LIBERMUNDO VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LOUVRE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LUCCA TRAVEL TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "LUTIANI CONSULTORIA TURÍSTICA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "M LEAL AGENCIA DE VIAGENS LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "MAGIC WAY TOURS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "MAGIC WAY TOURS  DUPLICADA ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "MAJESTIC LUXURY TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "MARVIN TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "MDD VIAGENS ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "NAVETUR VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "NC TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "NEW STAR TOURS AGENCIA DE VIAGENS LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "NEXT VIAGEM",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Nova Era Agencia de Turismo Ltda",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "OKEAHS TRAVEL&LIFE",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "OMEGA TRAVEL  VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "OPERACAOBRT CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 3,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PEAKALIKA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Personal Brasil Turismo",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PLANETA AZUL TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Positivo Turismo",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PRAISE VIAGENS E TURISMO ANTIGO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PRAISE VIAGENS E TURISMO NOVO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PREFFERENCE VIAGENS EIRELI   ME",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PREMIER TURISMO (BREMATUR)",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PREMIER TURISMO (BREMATUR) SEM DU",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "PROJETA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 3,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "RAQUEL TOURS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "RICKTUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ROTA VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ROTTERO VIAGENS PROGRAMADAS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ROWAM TURISMO E VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SALT TRAVEL - CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SAMARA COMPANY TOUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SARTORELLI TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SECULO XXI TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SENDPAX",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SMART TRIP",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SORRENTO VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "STAR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "STAROVER VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SUA ROTA VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "SUPORTE ZZZ",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TALAL KHALIL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TR1PS AGENCIA DE VIAGENS E TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 3,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRAVEL BOOKING AGÊNCIA DE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRAVEL MATE TURISMO - CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRAVELEI",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRAVELSTAR CURITIBA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRAVEO VISTOS INTERCAMBIO E VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRIANGULO TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TRIPOLI TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "TW VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VAI PRO MUNDO VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA INDIA OPERADORA DE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA KF AGENCIAMENTO DE VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA MONDO TURISMO   NOVO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA MONDO TURISMO (CLDO)",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA MONDO TURISMO RE",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA MONDO TURISMO V R INATIVO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA NOVA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIA TURISMO CWB",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIABRASILIS TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIAJOW OPERADORA DE TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIANNATUR TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIDOK VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIESCA VIAGENS E TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VISITTOUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VITORIA TURISMO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VIVI OLIVEIRA - PERSONAL TRAVEL",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VOJITOUR GROUP COM DU",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "VOJITOUR GROUP SEM DU",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "WANDATOUR VIAGENS E TURISMO LTDA",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "Wanderlust Viagens e Turismo",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "WEBTRIP",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "WELCOME TRIPS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 2,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "WK VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "WS VIAGENS",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ZABTUR",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1.5,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                },
+                {
+                    "Nome": "ZOEH STUDIO",
+                    "tipoRestricao": "22",
+                    "com1": 0,
+                    "com2": 100,
+                    "inc1": 1,
+                    "inc2": 100,
+                    "validade_inicial": "2019-05-23"
+                }
+            ]
+        }
+    ]
+}

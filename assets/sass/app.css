@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@300;500;600;700&display=swap");
+body {
+    background: var(--grey-300);
+    margin: 0;
+    --font-normal: 20px;
+    --blue-900: #002347;
+    --blue-800: #202d3b;
+    --blue-700: #114e8c;
+    --blue-600: #355a82;
+    --blue-100: #f7fbff;
+    --blue-50: #f3f5fe;
+
+    --error-900: #911f09;
+    --success-900: #0d9e14;
+
+    --grey-900: #1a1a1a;
+    --grey-800: #4b4b4b;
+    --grey-700: #959595;
+    --grey-600: #dbdbdb;
+    --grey-500: #ebebeb;
+    --grey-400: #f3f3f3;
+    --grey-300: #ffffff;
+
+    --white: white;
+    --black: black;
+}
+
+body,
+html,
+#__nuxt,
+#page {
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+}
+
+* {
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    font-size: inherit;
+    color: #114e8c;
+    text-decoration: none;
+}
+
+.date-input-picker .dp__input_wrap input {
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    display: block;
+    width: 100%;
+    font-size: 0.875rem;
+    line-height: 1.3rem;
+    padding: 0.493rem 2.5rem 0.495rem;
+    margin-top: 23px;
+    border: transparent;
+}
+
+a:hover {
+    transition: all 0.4s ease;
+    text-decoration: underline;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    line-height: 1.2;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    color: var(--grey-900);
+}
+
+h1 {
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.v-toast.v-toast {
+    z-index: 9999999999999999999999;
+}
+
+.body-content {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    transition: all 0.4s ease;
+    padding: 30px 30px 50px;
+    position: relative;
+    background: #f3f5fd;
+}
+
+.form-body::-webkit-scrollbar {
+    width: 10px;
+}
+.form-body::-webkit-scrollbar-track {
+    background: transparent;
+}
+.form-body::-webkit-scrollbar-thumb {
+    background: var(--grey-500);
+    border-radius: 90px;
+}
+.form-body::-webkit-scrollbar-thumb:hover {
+    background: var(--grey-600);
+}
+
+.body-content::-webkit-scrollbar {
+    width: 10px;
+}
+.body-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+.body-content::-webkit-scrollbar-thumb {
+    background: var(--blue-700);
+    border-radius: 0px;
+}
+.body-content::-webkit-scrollbar-thumb:hover {
+    background: var(--blue-800);
+}
+
+.input-slot-image {
+    height: 26px;
+    width: auto;
+    margin-left: 5px;
+    margin-right: 1.125rem;
+}

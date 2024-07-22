@@ -1,0 +1,21 @@
+.trv-drag-drop-container {
+    display: flex;
+    justify-content: center;
+}
+
+.trv-drag-drop-column {
+    margin: 20px;
+    border: $border;
+    border-radius: 5px;
+}
+
+.trv-drag-drop-arrows {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.trv-drag-drop-button {
+    margin: 5px;
+}
